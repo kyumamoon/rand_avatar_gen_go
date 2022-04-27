@@ -11,4 +11,4 @@ Numbered Folders
 
 # To Do
 - Make it scalable and more flexible with image sizing, layer counts, more random in the image outputs.
-Currently the code is written to work with a specific number of folders (layers) and produces a fixed amount of avatars.
+Currently the code is written to work with a specific number of folders (layers) and produces a fixed amount of avatars (currently outputs 10,000 avatars with the set of presets given).
